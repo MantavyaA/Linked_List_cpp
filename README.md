@@ -1,6 +1,6 @@
 # Linked_List_cpp
 
-# Linked List in C++
+# Theory
 
 A **linked list** is a linear data structure in which elements, called **nodes**, are stored in non-contiguous memory locations.  
 Each node has two parts:
